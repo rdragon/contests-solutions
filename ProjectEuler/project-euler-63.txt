@@ -1,0 +1,4 @@
+2021-08-21
+Solved using a calculator.
+To find the amount of such numbers that can be written as 9^n one computes 9, 9^2, 9^3, ..., 9^21.
+If you do the same for the other positive integers below 10, then you find 21 + 10 + 6 + 4 + 3 + 2 + 1 + 1 + 1 = 49 numbers.
